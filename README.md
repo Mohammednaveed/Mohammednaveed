@@ -76,7 +76,7 @@
 > Most of my work lives in a **private enterprise account** — 1,494 contributions in the last year.
 
 <p align="center">
-  <img width="1135" height="393" alt="image" src="https://github.com/user-attachments/assets/07e9b8c8-15af-4ece-8726-34341485d1a1" />
+  <img width="1285" height="733" alt="github_profile_repo_work" src="https://github.com/user-attachments/assets/f8095c8c-4386-4201-94be-621d6e801fb8" />
 </p>
 
 ---
