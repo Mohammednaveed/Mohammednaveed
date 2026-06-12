@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Mohammed Naveed 👋</h1>
+<h1 align="center">Shaik Mohammed Naveed</h1>
 
 <p align="center">
   <b>Python Developer · LLM Backends · MCP Agent Environments</b><br/>
-  <i>Building AI-native tools and enterprise-scale infrastructure @ Turing</i>
+  <i>Building AI-native tools and enterprise-scale infrastructure at Turing</i>
 </p>
 
 <p align="center">
@@ -14,19 +14,19 @@
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🧠 **2 years** building LLM-powered backends and AI agent infrastructure for enterprise platforms
-- ⚙️ Shipped **MCP (Model Context Protocol)** over JSON-RPC for 5 enterprise ecosystems at Turing
-- 🤖 Built a **multi-model benchmarking framework** — GPT vs Claude vs Gemini, head-to-head at scale with SQL verifiers
-- ☁️ Cloud-native on **GCP**, async pipelines with **Celery + Redis**, scalable APIs via **FastAPI / Flask**
-- 📊 Automated QA that cut manual effort by **90%** across **1,500+ Colab notebooks** weekly
-- 🔧 Daily cron-driven **GitHub automation** scripts tracking PR velocity for engineering leadership
-- 🌱 Currently sharpening: **AI agent tooling, Reinforcement Learning environments & developer infra**
+- 2 years building LLM-powered backends and AI agent infrastructure for enterprise platforms
+- Shipped MCP (Model Context Protocol) over JSON-RPC for 5 enterprise ecosystems at Turing
+- Built a multi-model benchmarking framework — GPT vs Claude vs Gemini, head-to-head at scale with automated SQL verifiers
+- Cloud-native on GCP, async pipelines with Celery + Redis, scalable APIs via FastAPI and Flask
+- Automated QA that cut manual effort by 90% across 1,500+ Colab notebooks weekly
+- Daily cron-driven GitHub automation scripts tracking PR velocity for engineering leadership
+- Currently sharpening: AI agent tooling, Reinforcement Learning environments, and developer infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -60,20 +60,20 @@
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 **Multi-Model Benchmarking Framework** | Routes GPT-4, Claude & Gemini through identical real-world tasks in isolated DB environments; validates outcomes with automated SQL verifiers | Python, PostgreSQL, OpenAI / Anthropic / Gemini APIs |
-| 🏢 **Enterprise Agent Gyms (MCP)** | Standardized MCP-based agent environments for Spotify, MS Teams, Dynamics 365, ServiceNow & Amazon Seller | Python, JSON-RPC, MCP |
-| 🔗 **Enterprise Collaboration API** | Multi-tenant REST APIs with hierarchical RBAC, chat, channel management & async job queues | FastAPI, Celery, Redis, PostgreSQL |
-| 📍 **Track N Go** | Real-time vehicle tracking with geofencing and route-deviation alerts | React.js, Firebase |
+| **Multi-Model Benchmarking Framework** | Routes GPT-4, Claude and Gemini through identical real-world tasks in isolated DB environments; validates outcomes with automated SQL verifiers | Python, PostgreSQL, OpenAI / Anthropic / Gemini APIs |
+| **Enterprise Agent Gyms (MCP)** | Standardized MCP-based agent environments for Spotify, MS Teams, Dynamics 365, ServiceNow and Amazon Seller | Python, JSON-RPC, MCP |
+| **Enterprise Collaboration API** | Multi-tenant REST APIs with hierarchical RBAC, chat, channel management and async job queues | FastAPI, Celery, Redis, PostgreSQL |
+| **Track N Go** | Real-time vehicle tracking with geofencing and route-deviation alerts | React.js, Firebase |
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-> 💼 Most of my work lives in a **private enterprise account** — 1,494 contributions in the last year.
+> Most of my work lives in a **private enterprise account** — 1,494 contributions in the last year.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammednaveed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -82,27 +82,20 @@
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
-- 🥇 **Patent Filed** — Real-Time Vehicle Monitoring (low-latency GPS tracking architecture)
-- 📄 **IEEE Research Paper** — IoT Home Automation with ESP32 (April 2024)
-- 🏆 **Hackathon Winner** — 1st place among 50 teams
-- 🤖 **Robothon Winner** — BITES 1st place, autonomous robot design
-- 🎓 **CGPA 9.21** — B.E. Computer Science, BITM
-- 📜 **Google AI Essentials** — Coursera (2024)
-- 📜 **Artificial Intelligence A-Z** — Udemy (2025)
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-Open to backend engineering, LLM tooling, and AI infrastructure roles.<br/>
-<a href="https://mohammednaveed.vercel.app">🌐 Portfolio</a> · <a href="https://linkedin.com/in/shaik-mohammed-naveed">💼 LinkedIn</a> · <a href="mailto:naveedmohammed687@gmail.com">✉️ Email</a>
-</p>
+- **Patent Filed** — Real-Time Vehicle Monitoring (low-latency GPS tracking architecture)
+- **IEEE Research Paper** — IoT Home Automation with ESP32 (April 2024)
+- **Hackathon Winner** — 1st place among 50 teams
+- **Robothon Winner** — BITES 1st place, autonomous robot design
+- **CGPA 9.21** — B.E. Computer Science, BITM
+- **Google AI Essentials** — Coursera (2024)
+- **Artificial Intelligence A-Z** — Udemy (2025)
 
 ---
 
-<p align="center">
-  <i>"Building at the intersection of AI and developer tooling."</i>
-</p>
+## Contact
+
+Open to backend engineering, LLM tooling, and AI infrastructure roles.
+
+[Portfolio](https://mohammednaveed.vercel.app) · [LinkedIn](https://linkedin.com/in/shaik-mohammed-naveed) · [Email](mailto:naveedmohammed687@gmail.com)
