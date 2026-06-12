@@ -76,8 +76,7 @@
 > Most of my work lives in a **private enterprise account** — 1,494 contributions in the last year.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammednaveed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammednaveed&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img width="1135" height="393" alt="image" src="https://github.com/user-attachments/assets/07e9b8c8-15af-4ece-8726-34341485d1a1" />
 </p>
 
 ---
